@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgjs1342342313)](https://github.com/hgjs1342342313/hgjs1342342313)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgjs1342342313&show_icons=true&theme=tokyonight&title_color=0x39c5bb)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 
 🔭 I’m currently working on IoT technology of Cyber Engineering in Software Technic School of Dalian University of Technology.
