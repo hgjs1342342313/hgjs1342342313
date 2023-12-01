@@ -1,12 +1,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgjs1342342313&show_icons=true&theme=tokyonight&title_color=0x39c5bb)](https://github.com/anuraghazra/github-readme-stats)
-<h1 align="center">Hi 👋, I'm CandyCom</h1>
-<h3 align="center">A foo guy from People's Republic</h3>
+<h1 align="center">Hi 👋, I'm Zheming Kang</h1>
+<h3 align="center">Keep healthy, stay happy</h3>
 
-- 🔭 I’m currently studying at **University of California, Riverside**
+- 🔭 I’m currently studying at **The University of Hong Kong**
 
-- 🌱 I’m currently learning **XR tools, Unity**
+- 🌱 I’m currently learning **Wireless sensing, visualization tools, python simple gui, etc.**
 
-- 👯 I’m looking to collaborate on **My Senior Design on VR**
+- 👯 I’m looking to collaborate on **My final project(TOPIC TBD)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
