@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Wireless sensing, visualization tools, python simple gui, etc.**
 
-- 👯 I’m looking to collaborate on **My final project(TOPIC TBD)**
+- 👯 I’m looking to collaborate on **the course in the autumn semester in 2024.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
